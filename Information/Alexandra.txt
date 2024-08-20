@@ -1,0 +1,7 @@
+Name:
+Age:
+Sex:
+Birthday:
+Course:
+Instructor:
+Sy:
